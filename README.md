@@ -1,5 +1,7 @@
 # Hi there! Now minexmr2.com pool uses decentralized p2pool as a hashrate-liquidity provider 👋
 
+** TODO: implement in Swift? **
+
 This is [minexmr2.com](https://minexmr2.com) Monero mining pool implementation based
 on [jtgrassie's monero-pool](https://github.com/jtgrassie/monero-pool).
 Just nearly 10% of code is added/rewritten, because jtgrassie's monero-pool offers a robust base to develop minexmr2.com pool
